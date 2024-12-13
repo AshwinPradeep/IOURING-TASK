@@ -1,5 +1,4 @@
-# IOURING-TASK
-# README for IOURING Simple Moving Average Task
+# IOURING Simple Moving Average Task
 
 ## Project Title:  
 **Simple Moving Average (SMA) Calculation for RELIANCE Historical Data**
