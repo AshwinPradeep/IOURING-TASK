@@ -110,5 +110,3 @@ The program calculates a 10-day Simple Moving Average (SMA) for the specified co
 
 ---
 
-For any queries, contact: **support@iouring.com**
-
